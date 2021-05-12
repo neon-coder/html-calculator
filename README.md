@@ -1,2 +1,2 @@
 # html-calculator
-e=mc²
+E=mc²
